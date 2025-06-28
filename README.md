@@ -27,6 +27,9 @@ The Georgia RFP wants solutions for three primary stakeholders:
 
 1. **Fork**
    - Fork this repository, you'll include a link to your fork in your submission.
+2. **Environment Setup:**
+   - Copy `ENV_TEMPLATE` to `.env` and update the values as needed for your database configuration
+   - Install Python dependencies: `pip install -r requirements.txt`
 3. **Explore:**
    - Look through the [data directory](data/) to understand structure and patterns.
    - Ingest the raw data into a clean, queryable database.
@@ -34,7 +37,7 @@ The Georgia RFP wants solutions for three primary stakeholders:
 4. **Create:**
    - Take [Georgia's current offering](https://gadrinkingwater.net/DWWPUB/) out of the 2000s.
    - You can build for the Public, the Operators, the Regulators (or all three!).
-1. **Submit:** Instructions below.
+5. **Submit:** Instructions below.
 
 ## Implementation Requirements
 
